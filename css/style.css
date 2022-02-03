@@ -22,6 +22,7 @@ h1{
 
 .active a{
 	text-decoration: underline;
+	font-family: fantasy;
 }
 .inuse{
 	background:lightcoral;
@@ -31,6 +32,7 @@ h1{
 }
 .inuse a{
 	text-decoration: underline;
+	font-family: fantasy;
 }
 .inuse1{
 	background:lightcoral;
@@ -40,6 +42,7 @@ h1{
 }
 .inuse1 a{
 	text-decoration: underline;
+	font-family: fantasy;
 }
 
 .inuse2{
@@ -50,6 +53,7 @@ h1{
 }
 .inuse2 a{
 	text-decoration: underline;
+	font-family: fantasy;
 }
 /*Style the images*/
 
